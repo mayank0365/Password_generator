@@ -174,20 +174,7 @@ if(passwordLength<checkCount){
 console.log("starting the journey");
 password="";
 
-// //lets put stuff mentioned in checkbox
 
-// if(uppercaseCheck.checked){
-//     password+=generateUpperCase();
-// }
-// if(lowercaseCheck.checked){
-//     password+=generateLowerCase();
-// }
-// if(numbersCheck.checked){
-//     password+=generateRandomNumber();
-// }
-// if(symbolsCheck.checked){
-//     password+=generateSymbol();
-// }
 
 let funcArr=[];
 
